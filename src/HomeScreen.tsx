@@ -2,6 +2,7 @@ import React from 'react';
 import { View, Text, TouchableOpacity, Alert } from 'react-native';
 import EStyleSheet from 'react-native-extended-stylesheet';
 
+//add comment test
 export default function HomeScreen() {
   return (
     <View style={styles.container}>
